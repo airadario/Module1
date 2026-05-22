@@ -21,7 +21,7 @@ print(x.real)
 print(x.imag)
 ```
 ## Output
-![Uploading image.png…]()
+<img width="714" height="186" alt="image" src="https://github.com/user-attachments/assets/4538107b-0f09-42df-85b5-b90b8df6eb9e" />
 
 ## Result
 Thus the prgram has been successfully executed.
